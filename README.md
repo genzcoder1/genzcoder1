@@ -27,7 +27,7 @@ I focus on building:
 ## 🛠️ What I Do for Clients
 
 ✅ Custom Websites & Web Applications  
-✅ Full-Stack Development (Frontend + Backend + Database + Testing + Depeloyment)  
+✅ Full-Stack Development (Frontend + Backend + Database + Testing + Deployment)  
 ✅ SaaS Product Development  
 ✅ App Development (Android + IOS)  
 ✅ API Development & Integrations  
@@ -66,7 +66,7 @@ I focus on building:
 
 ###  3D, Interactive & Creative Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gsap,threejs,blender&theme=dark" />
 </p>
 
 ###  Testing & Quality Assurance
