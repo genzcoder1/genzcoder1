@@ -157,9 +157,6 @@ I focus on building:
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=genzcoder1&theme=github_dark)
-![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=genzcoder1&theme=github_dark)
-
 <p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=genzcoder1&theme=dark&hide_border=true" />
 </p>
